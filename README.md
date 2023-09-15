@@ -1,15 +1,20 @@
 # Aplicativo de Geração de Senha
-
+<!--
 <p >
   Este é um aplicativo de geração de senha desenvolvido com Expo. Esse aplicativo foi desenvolvido em um vídeo tutorial no canal do <a href="https://github.com/devfraga">Matheus Fraga</a> 
   chamado <a href="https://www.youtube.com/@Sujeitoprogramador">Sujeito Programado</a>, onde ele ensina para iniciantes o desenvolvimento de um aplicativo simples para gerar senhas. Mesmo sendo simples, o tutorial aborda vários conceitos importantes sobre 
   o desenvolvimento de aplicativos no React Native e Expo. 
 </p>
+-->
 
-<P>
+Este é um aplicativo de geração de senha desenvolvido com Expo. Esse aplicativo foi desenvolvido em um vídeo tutorial no canal do [@devfraga]([https://github.com/nome-de-usuario]) 
+chamado <a href="https://www.youtube.com/@Sujeitoprogramador">Sujeito Programado</a>, onde ele ensina para iniciantes o desenvolvimento de um aplicativo simples para gerar senhas. Mesmo sendo simples, o tutorial aborda vários conceitos importantes sobre 
+  o desenvolvimento de aplicativos no React Native e Expo.
+
+<p>
   Já faz um bom tempo que desenvolvo apps usando Expo, mas estava há alguns meses focado em projetos de backend. Decidi assistir a aula e aproveitei para acrescentar alguns conhecimentos 
   que já havia adquirido ao projeto.
-</P>
+</p>
 
 link da video aula: https://www.youtube.com/watch?v=VDgihqrZUQg&t=46s
 
